@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I'm Ellie
 
-<!--
-**Ellie779/Ellie779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am new to Web Development and my first project has been to create a landing page. I am enjoying the challenge and I am excited to learn new skills to create more complex projects!
+ 
+## 🛠️ Skills & Technologies 💻 💻 💻
+HTML5 | CCS3 | JavaScript | Market Research | SEO | Content Creation
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+I'm currently developing my Digital Marketing Skills including market research, SEO, campaign planning, landing page construction and content creation.
+ 
+## 📫 How to Reach Me
+LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/ellie-poore-71760b186/)
+Email: ellie-poore@hotmail.com
+ 
+## 💬 Let's Collaborate
+I'm open to digital marketing roles and opportunities to develop my skills. If you would like to work with me or get in touch, feel free to reach out!
